@@ -7,11 +7,11 @@ _Software engineer, MSIT-SE_ <br>
 ## 💻 Work experience
 
 **Expert in Software Engineering** @ [PochtaTech](https://vk.com/pochtatech) _(Apr 2022 - Present)_ <br>
-In Pochta Tech I continue to work on projects for Russian Post, most notably, I continue to lead the engineering of Order Management System, which I have originally designed, and continue to take part in the development of solutions for calling customers via voice bots, contact center, hyperlocal delivery, various courier services, etc.<br><br>
+In Pochta Tech I continue to work on projects for Russian Post, most notably, I continue to lead the engineering of Order Management System, which I have originally designed, and continue to take part in the development of solutions for calling customers via voice bots, contact center, hyperlocal delivery, various courier services, etc.<br>
 
-As Expert in Software Engineering I am more involved in the development of the Software Engineering communities in the organization, most notably Java Developers Guild, which I represent as a leader of its local branch. When working with professional communities I am helping with preparing development standards, skills matrices, interview scenarios, questions, and test cases, as well as with formulation of competency check-list for teams evaluation.<br><br>
+As Expert in Software Engineering I am more involved in the development of the Software Engineering communities in the organization, most notably Java Developers Guild, which I represent as a leader of its local branch. When working with professional communities I am helping with preparing development standards, skills matrices, interview scenarios, questions, and test cases, as well as with formulation of competency check-list for teams evaluation.<br>
 
-Instruments and practices I am using for work:<br>
+Instruments and practices I am using for work:
   - **_Backend_**: Java 11, Spring (WebFlux, Web, Security), Lombok, Reactor, r2dbc, Reactive Kafka, Spring Cache, Json Schema
   - **_Frontend_**: JavaScript, React JS, MobX, CSS Modules, Svelte
   - **_Design_**: Figma
