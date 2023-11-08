@@ -12,7 +12,7 @@ Activities and societies: Instructor at Math club
 
 **The Specialist Degree - Mathematics and System Programming**<br>
 [Ulyanovsk State University](https://www.ulsu.ru/en/) - Ulyanovsk, Russia _(2010 - 2015)_ <br>
-Field of study: Theory of Probability and Mathematical Statistics
+Field of study: Theory of Probability and Mathematical Statistics <br>
 Grade 5.0 (5.0 is the highest possible)
 
 The winner of the annual scientific conference in English "Global and local problems of modern society"​. The speaker of the scientific conference "Stochastic models in theoretical biology". Ulyanovsk State University, 2013. The winner of the annual scientific conference of the Faculty of Mathematics and Information Technology, 2015
