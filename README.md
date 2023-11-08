@@ -39,6 +39,14 @@ I have participated in the work of technical communities, most notably Java comm
 Mentor at Backend/Python development department<br>
 
 Supervised a group of 30-60 students: communicated with them in Slack, conducted group and individual calls (on technical issues, finding motivation, creating a career map, etc.), compiled and conducted webinars (~1 webinar per month), organized students into groups to work on open-source projects that they created from scratch for practice, where I was acting as a "customer" with business requirements, and as mentor who helped to organize SDLC.
+
+**CTO (Chief Technology Officer)** @ [OWN.space](https://www.agents.inc/) _(Aug 2017 - Dec 2019)_ <br>
+In this position I am involved at all areas of Software Development Lifecycle and am responsible for such areas as Software Projects Management (Planning, Tracking, Context & Requirements Management, Configuration Management, Risk Management). Software development teams Management, Software systems Architecture, Cloud Systems Administration, Software Quality Management (backend APIs (Java), AI services (Python), web user interface (JavaScript, React)), as well as Mentorship of Software Engineers, defining career paths and keeping developers achieve their career goals, and providing technical expertise in ongoing communications with customers. More than 40% of my work time a week I am directly involved in the engineering of the Java backend for the own.space platform, and most business-critical features of Python services, staying up to date with the latest technological trends.<br>
+
+Solutions stack for the backend API: Java 8, Play Framework 2.x, Ebean, Amazon S3, Redis, Postgre SQL, Mongo DB, websockets, JUnit, Stripe Billing.<br>
+Solutions stack for AI Agents & services: Python (3.6, 3.7), flask, FireStore (firebase), Postgre SQL, Redis, jinja2, firebase Admin, beautifulsoup, IBM Watson NLU, Google Cloud APIs + docker, kubernetes.<br>
+For projects with both stacks described above I have set up tools for static code analysis, automatic testing and continuous deployment of solutions on servers (TeamCity, SonarQube, bash, etc.)<br>
+For different projects I have use cloud solutions for working with Virtual Machines, Load Balancing, Network Management, RDBMS, NoSQL databases and Data Storage from Google Cloud, Amazon Web Services, Azure, T-Systems and other providers.
 <br><br>
 
 ## 👩🏼‍🎓 Education
