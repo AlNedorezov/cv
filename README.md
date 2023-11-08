@@ -4,6 +4,32 @@ _Software engineer, MSIT-SE_ <br>
 
 [Email](mailto:Al73rus@gmail.com) / [LinkedIn](https://www.linkedin.com/in/alnedorezov?locale=en_US) / [GitHub](https://github.com/AlNedorezov/)
 
+## 👩🏼‍🎓 Education
+
+**The Master of Science in Information Technology** - Software  Engineering<br>
+[Innopolis University](https://innopolis.university/) - Innopolis, Russia _(2015 - 2017)_
+Activities and societies: Instructor at Math club
+
+**The Specialist Degree - Mathematics and System Programming**<br>
+[Ulyanovsk State University](https://www.ulsu.ru/en/) - Ulyanovsk, Russia _(2010 - 2015)_
+Field of study: Theory of Probability and Mathematical Statistics
+Grade 5.0 (5.0 is the highest possible)
+
+The winner of the annual scientific conference in English "Global and local problems of modern society"​. The speaker of the scientific conference "Stochastic models in theoretical biology". Ulyanovsk State University, 2013. The winner of the annual scientific conference of the Faculty of Mathematics and Information Technology, 2015
+
+**Bachelor of economics**<br>
+[Ulyanovsk State University](https://www.ulsu.ru/en/) - Ulyanovsk, Russia _(2012 - 2015)_
+Grade 4.65 (5.00 is the highest possible)
+
+**Advansed training course, Translation for special purposes**<br>
+[Ulyanovsk State Technical University](https://ulstu.ru/en/) - Ulyanovsk, Russia _(2013 - 2015)_
+Grade 4.82 (5.00 is the highest possible)
+
+**Advanced training course, Teaching Mathematics and Information Technology**<br>
+[Ulyanovsk State University](https://www.ulsu.ru/en/) - Ulyanovsk, Russia _(2014 - 2015)_
+Grade 5.0 (5.0 is the highest possible)
+<br><br>
+
 ## 📚 Professional development, courses
 
 **Project Risk Management** @ State University — Higher School of Economics _(2021)_ <br>
