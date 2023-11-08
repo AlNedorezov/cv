@@ -28,6 +28,12 @@ Mentor at Java development department<br>
   - I help to sort out what remains unclear by answering questions in Slack;
   - I conduct group consultations, where I sort out difficult questions on software engineering theory with students;
   - I help not to lose motivation and support students during their studies.
+
+**Head of E-Commerce Solutions Development Division** @ [Russian Post - Post Technologies - Department of Digital Technology Development for E-Commerce](https://www.pochta.ru/) _(Feb 2020 - Apr 2022)_ <br>
+Leading the Engineering Team at the Department of Digital Technology Development for E-Commerce.<br>
+During my work at Russian Post I have designed & lead the engineering of Order Management System, and have participated in the launch or re-launch of solutions for calling customers via voice bots, contact center, hyperlocal delivery, various courier services, etc.
+
+I have participated in the work of technical communities, most notably Java community. There I have been helping with preparing skills marices, interview scenarios, questions, and test cases, as well as with formulation of competency check-list for teams evaluation.<br>
 <br><br>
 
 ## 👩🏼‍🎓 Education
