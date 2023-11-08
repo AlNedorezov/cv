@@ -19,15 +19,25 @@ Credential ID `1КЛИК-201762`
 Credential ID `У2035 ПК 000000949`
 
 **Development of web-services in GoLang** @ Stepik, Mail.ru _(2019)_ <br>
+
 **Mentor School** @ Yandex.Practicum _(2019)_ <br>
+
 **Startup School by Y Combinator** @ Y Combinator _(2021)_ <br>
+
 **edX LFS101x: Introduction to Linux** @ LinuxFoundationX _(2016)_ <br>
+
 **PHP,  MySQL** @ Infinite Skills Inc. _(2015)_ <br>
+
 **Entrepreneurship in IT, the basics of creating a business** @ IT start, Ulyanovsk State University _(2014)_ <br>
+
 **Ulyanovsk IT Learning Center - .NET development** @ IT Learning Center / itc73.ru _(2012)_ <br>
+
 **Ulyanovsk IT Learning Center - PHP development** @ IT Learning Center / itc73.ru _(2012)_ <br>
+
 **Ulyanovsk IT Learning Center - Web Development** @ IT Learning Center / itc73.ru _(2012)_ <br>
+
 **Ulyanovsk IT Learning Center - php, MySQL, C#** @ Nonprofit Partnership for promotion of the Development of Internet Technologies, Youth Initiative Center _(2012)_ <br>
+
 **Ulyanovsk IT Learning Center - Web Design** @ IT Learning Center / itc73.ru _(2011)_ <br>
 
 <br><br>
