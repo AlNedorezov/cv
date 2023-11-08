@@ -4,7 +4,7 @@ _Software engineer, MSIT-SE_ <br>
 
 [Email](mailto:Al73rus@gmail.com) / [LinkedIn](https://www.linkedin.com/in/alnedorezov?locale=en_US) / [GitHub](https://github.com/AlNedorezov/)
 
-## 💻 Work experience
+## 👨‍💻 Work experience
 
 **Expert in Software Engineering** @ [PochtaTech](https://vk.com/pochtatech) _(Apr 2022 - Present)_ <br>
 In Pochta Tech I continue to work on projects for Russian Post, most notably, I continue to lead the engineering of Order Management System, which I have originally designed, and continue to take part in the development of solutions for calling customers via voice bots, contact center, hyperlocal delivery, various courier services, etc.<br>
@@ -116,7 +116,7 @@ Achievements:
   - Worked on 8 projects from initiation phase to maintenance
 <br><br>
 
-## 👩🏼‍🎓 Education
+## 👨‍🎓 Education
 
 **The Master of Science in Information Technology** - Software  Engineering<br>
 [Innopolis University](https://innopolis.university/) - Innopolis, Russia _(2015 - 2017)_ <br>
