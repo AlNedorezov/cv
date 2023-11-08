@@ -35,7 +35,7 @@ During my work at Russian Post I have designed & lead the engineering of Order M
 
 I have participated in the work of technical communities, most notably Java community. There I have been helping with preparing skills marices, interview scenarios, questions, and test cases, as well as with formulation of competency check-list for teams evaluation.
 
-**Mentor** @ [Yandex Practicum](https://practicum.yandex.ru/) _(Nov 2019 - Present)_ <br>
+**Mentor** @ [Yandex Practicum](https://practicum.yandex.ru/) _(Nov 2019 - Aug 2021)_ <br>
 Mentor at Backend/Python development department<br>
 
 Supervised a group of 30-60 students: communicated with them in Slack, conducted group and individual calls (on technical issues, finding motivation, creating a career map, etc.), compiled and conducted webinars (~1 webinar per month), organized students into groups to work on open-source projects that they created from scratch for practice, where I was acting as a "customer" with business requirements, and as mentor who helped to organize SDLC.
