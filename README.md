@@ -4,6 +4,24 @@ _Software engineer, MSIT-SE_ <br>
 
 [Email](mailto:Al73rus@gmail.com) / [LinkedIn](https://www.linkedin.com/in/alnedorezov?locale=en_US) / [GitHub](https://github.com/AlNedorezov/)
 
+## 💻 Work experience
+
+**Expert in Software Engineering** @ [PochtaTech]([https://bryter.com/](https://vk.com/pochtatech)) _(Apr 2022 - Present)_ <br>
+In Pochta Tech I continue to work on projects for Russian Post, most notably, I continue to lead the engineering of Order Management System, which I have originally designed, and continue to take part in the development of solutions for calling customers via voice bots, contact center, hyperlocal delivery, various courier services, etc.<br><br>
+
+As Expert in Software Engineering I am more involved in the development of the Software Engineering communities in the organization, most notably Java Developers Guild, which I represent as a leader of its local branch. When working with professional communities I am helping with preparing development standards, skills matrices, interview scenarios, questions, and test cases, as well as with formulation of competency check-list for teams evaluation.<br><br>
+
+Instruments and practices I am using for work:<br>
+  - **_Backend_**: Java 11, Spring (WebFlux, Web, Security), Lombok, Reactor, r2dbc, Reactive Kafka, Spring Cache, Json Schema
+  - **_Frontend_**: JavaScript, React JS, MobX, CSS Modules, Svelte
+  - **_Design_**: Figma
+  - **_Testing_**: Java 17, Java 11, JUnit 5, Rest Assured, Mockito, k6, testcafe
+  - **_Infrastructure_**: Docker, Kubernetes, GitLab, Apache Maven, Apache Pulsar, Apache Kafka, PostreSQL, Redis, Nginx, Keycloak, Puppet, Gitlab CI, Zabbix, Zipkin, Fluentd, Prometheus, Grafana, ELK, IIS+CriptoPro (GOST TLS)
+  - **_Architecture_**: Hexagonal, DDD, CQRS, SOLID
+  - **_Modelling_**: UML, Archimate
+  - **_Management_**: Jira, Tempo, Confluence
+<br><br>
+
 ## 👩🏼‍🎓 Education
 
 **The Master of Science in Information Technology** - Software  Engineering<br>
