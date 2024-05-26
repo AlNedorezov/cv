@@ -160,7 +160,7 @@ Credential ID `У2035 ПК 000000949`
 
 **Mentor School** @ Yandex.Practicum _(2019)_ <br>
 
-**Startup School by Y Combinator** @ Y Combinator _(2021)_ <br>
+**Startup School by Y Combinator** @ Y Combinator _(2018)_ <br>
 
 **edX LFS101x: Introduction to Linux** @ LinuxFoundationX _(2016)_ <br>
 
