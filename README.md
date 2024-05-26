@@ -63,7 +63,7 @@ Solution stack: JavaScript (EcmaScript 6), Bootstrap, jQuery, NodeJS, Bower, Gru
 Solution stack: Java, Android, ORMLite, Play Services, Gradle, Git, Jira.
 
 **Team Lead, Python/Django Engineer** @ [Freelance (University Picker project)](https://gitlab.com/AlNedorezov/UniversityPicker) _(Sep 2016 - Nov 2016)_ <br>
-University Picker project represents a web-sites, the purpose of which is to help high school graduates to choose the university and the specialization based on the Russian State Exams results, the location of the university, the standard of living, average salary sizes, the number of preferred job offers, the cost of rental housing and hostels in that location.<br>
+University Picker project represents a web-site, the purpose of which is to help high school graduates to choose the university and the specialization based on the Russian State Exams results, the location of the university, the standard of living, average salary sizes, the number of preferred job offers, the cost of rental housing and hostels in that location.<br>
 
 In this project I was responsible for gathering and managing requirements, conducting team meetings, building a database structure, implementation of specialties descriptions fetching, automatic mapping between vacancies and specialties, and also for deploying the application on the server.<br>
 
