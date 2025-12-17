@@ -6,28 +6,28 @@ _Software engineer, MSIT-SE_ <br>
 
 ## 👨‍💻 Work experience
 
-**Expert in Software Engineering** @ [PochtaTech](https://vk.com/pochtatech) _(Apr 2022 - Present)_ <br>
+**Expert in Software Engineering** @ [PochtaTech](https://pochta.tech/) _(Apr 2022 - Present)_ <br>
 In Pochta Tech I continue to work on projects for Russian Post, most notably, since February 2024, I design and lead the implementation of an Internal Development Platform. <br>Prior to 2025 I also took part in the development of solutions for calling customers via voice bots, contact center, hyperlocal delivery, various courier services. <br>Prior to February 2024 I lead the engineering of Order Management System, which I have originally designed.<br>
 
 As Expert in Software Engineering I am more involved in the development of the Software Engineering communities in the organization, most notably Java Developers Guild, which I represent as a leader of its local branch. When working with professional communities I am helping with preparing development standards, skills matrices, interview scenarios, questions, and test cases, as well as with formulation of competency check-list for teams evaluation.<br>
 
 Instruments and practices I am using for work:
-  - **_Backend_**: Java 21, Spring (WebFlux, Web, Security), Lombok, Reactor, r2dbc, Reactive Kafka, Spring Cache, Json Schema, Python, Kopf
+  - **_Backend_**: Java 21, Spring (WebFlux, Web, Security), Lombok, Reactor, r2dbc, Reactive Kafka, Spring Cache, Json Schema, Python, Kopf, Pydantic, Litestar
   - **_Frontend_**: JavaScript, React JS, MobX, CSS Modules, Svelte
   - **_Design_**: Figma
-  - **_Testing_**: Java 21, JUnit 5, Rest Assured, Mockito, k6, testcafe
-  - **_Infrastructure_**: Docker, Kubernetes, GitLab, Apache Maven, Apache Pulsar, Apache Kafka, PostreSQL, Redis, Nginx, Keycloak, Puppet, Gitlab CI, Zabbix, Zipkin, Fluentd, Prometheus, Grafana, ELK, IIS+CriptoPro (GOST TLS)
+  - **_Testing_**: Java 21, JUnit 5, Rest Assured, Mockito, k6, pytest, testcafe, playwright
+  - **_Infrastructure_**: GitOps, Docker, Kubernetes, GitLab, Gitlab CI, ArgoCD, Helm, Apache Maven, Apache Pulsar, Apache Kafka, PostreSQL, Redis, Nginx, Keycloak, Puppet, Zabbix, Zipkin, Fluentd, Prometheus, Grafana, ELK, IIS+CriptoPro (GOST TLS), Backstage
   - **_Architecture_**: Hexagonal, DDD, CQRS, SOLID
-  - **_Modelling_**: UML, Archimate
+  - **_Modelling_**: UML, PlantUML, Archimate
   - **_Management_**: Jira, Tempo, Confluence
 
-**Mentor** @ [Yandex Practicum](https://practicum.yandex.ru/) _(Jan 2022 - Present)_ <br>
+**Mentor** @ [Yandex Practicum](https://practicum.yandex.ru/) _(Jan 2022 - Jan 2025)_ <br>
 Mentor at Java development department<br>
 
-  - I supervise groups of 40-100 students throughout their entire learning process;
-  - I help to sort out what remains unclear by answering questions in Slack;
-  - I conduct group consultations, where I sort out difficult questions on software engineering theory with students;
-  - I help not to lose motivation and support students during their studies.
+  - Supervision of groups of 40-100 students throughout their entire learning process;
+  - Help with sorting out students difficulties by answering questions in a messaging app;
+  - Group consultations, where I sorted out difficult questions on software engineering theory with students;
+  - Motivational help and support of students during their studies.
 
 **Head of E-Commerce Solutions Development Division** @ [Russian Post - Post Technologies - Department of Digital Technology Development for E-Commerce](https://www.pochta.ru/) _(Feb 2020 - Apr 2022)_ <br>
 Leading the Engineering Team at the Department of Digital Technology Development for E-Commerce.<br>
