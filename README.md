@@ -7,7 +7,7 @@ _Software engineer, MSIT-SE_ <br>
 ## 👨‍💻 Work experience
 
 **Expert in Software Engineering** @ [PochtaTech](https://vk.com/pochtatech) _(Apr 2022 - Present)_ <br>
-In Pochta Tech I continue to work on projects for Russian Post, most notably, I design and lead the implementation of an Internal Development Platform, continue to take part in the development of solutions for calling customers via voice bots, contact center, hyperlocal delivery, various courier services, and until Feb, 2024 I lead the engineering of Order Management System, which I have originally designed.<br>
+In Pochta Tech I continue to work on projects for Russian Post, most notably, since February 2024, I design and lead the implementation of an Internal Development Platform. <br>Prior to 2025 I also took part in the development of solutions for calling customers via voice bots, contact center, hyperlocal delivery, various courier services. <br>Prior to February 2024 I lead the engineering of Order Management System, which I have originally designed.<br>
 
 As Expert in Software Engineering I am more involved in the development of the Software Engineering communities in the organization, most notably Java Developers Guild, which I represent as a leader of its local branch. When working with professional communities I am helping with preparing development standards, skills matrices, interview scenarios, questions, and test cases, as well as with formulation of competency check-list for teams evaluation.<br>
 
